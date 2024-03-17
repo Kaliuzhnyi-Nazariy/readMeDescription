@@ -1,5 +1,5 @@
 # Hi everyone!👋🏻
-My name is Nazarii Kaliuzhnyi and I am full-stack developer.
+  I am Nazarii Kaliuzhnyi and I am a full-stack developer;)
 
 > [!NOTE]
 > I'm 17
