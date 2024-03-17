@@ -2,4 +2,7 @@
 My name is Nazarii Kaliuzhnyi and I am full-stack developer.
 
 > [!NOTE]
-> Useful information that users should know, even when skimming content.
+> I'm 17
+
+> [!NOTE]
+> I love what I do
