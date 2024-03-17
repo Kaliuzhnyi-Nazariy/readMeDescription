@@ -6,3 +6,6 @@
 
 > [!NOTE]
 > I love what I do
+
+> [!NOTE]
+> Everything that comes into my hands becomes my knowledge
